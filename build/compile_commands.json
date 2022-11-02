@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fksrd/Desktop/gtkmmexample/build",
+  "command": "/usr/bin/g++ -DNANA_ENABLE_JPEG=1 -DNANA_ENABLE_PNG=1 -DUSE_LIBJPEG_FROM_OS=1 -DUSE_LIBPNG_FROM_OS=1 -isystem /home/fksrd/.local/share/vcpkg/installed/x64-linux/include -g -o CMakeFiles/gtkmmexample.dir/main.cpp.o -c /home/fksrd/Desktop/gtkmmexample/main.cpp",
+  "file": "/home/fksrd/Desktop/gtkmmexample/main.cpp"
+}
+]
