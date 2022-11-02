@@ -343,6 +343,9 @@ Fontconfig_LIBRARY_DEBUG:FILEPATH=/home/fksrd/.local/share/vcpkg/installed/x64-l
 //Path to a library.
 Fontconfig_LIBRARY_RELEASE:FILEPATH=/home/fksrd/.local/share/vcpkg/installed/x64-linux/lib/libfontconfig.a
 
+//Path to a program.
+GITCOMMAND:FILEPATH=/usr/bin/git
+
 //Path to a file.
 JPEG_INCLUDE_DIR:PATH=/home/fksrd/.local/share/vcpkg/installed/x64-linux/include
 
@@ -963,6 +966,8 @@ Fontconfig_LIBRARY-ADVANCED:INTERNAL=1
 Fontconfig_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: Fontconfig_LIBRARY_RELEASE
 Fontconfig_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GITCOMMAND
+GITCOMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: JPEG_INCLUDE_DIR
 JPEG_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: JPEG_LIBRARY_DEBUG

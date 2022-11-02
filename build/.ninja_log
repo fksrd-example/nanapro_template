@@ -1,7 +1,6 @@
 # ninja log v5
-84	410	1667389719374741861	gtkmmexample	ce48f9e316c77279
-0	84	1667389719054731850	CMakeFiles/gtkmmexample.dir/main.cpp.o	204ba6188eeeb8c8
-0	1338	1667390196018288987	CMakeFiles/gtkmmexample.dir/main.cpp.o	d2afd86fb7d9c824
-1342	3250	1667390197922380724	gtkmmexample	935ec50883d6df7f
 2	1527	1667390283730590982	CMakeFiles/gtkmmexample.dir/main.cpp.o	d2afd86fb7d9c824
 1527	3210	1667390285402674421	gtkmmexample	935ec50883d6df7f
+3	1426	1667392295147267380	CMakeFiles/gtkmmexample.dir/mainwindow.cpp.o	ee8d1f3dcaab0901
+2	28	1667392314858460010	CMakeFiles/gtkmmexample.dir/main.cpp.o	d2afd86fb7d9c824
+29	1852	1667392316674757733	gtkmmexample	c1e80c4b1d829d44

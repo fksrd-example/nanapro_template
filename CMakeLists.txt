@@ -8,7 +8,15 @@ enable_testing()
 find_package(unofficial-nana CONFIG REQUIRED)
 find_package(argparse CONFIG REQUIRED)
 
-add_executable(gtkmmexample main.cpp)
+add_executable(
+    gtkmmexample 
+
+    main.hpp
+    main.cpp
+
+    mainwindow.hpp
+    mainwindow.cpp
+)
 
 target_link_libraries(gtkmmexample PRIVATE unofficial::nana::nana)
 target_link_libraries(gtkmmexample PRIVATE argparse::argparse)
